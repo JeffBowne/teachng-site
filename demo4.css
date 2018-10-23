@@ -1,13 +1,18 @@
-* {
+/** {
 	border: 1px solid gray;
 }
-
+*/
 
 
 
 body {
 	margin: 0;
 }
+
+.js-demo {
+	margin: 40px 10px;
+}
+
 
 .intro-section {}
 
