@@ -168,9 +168,9 @@ var isThisWeird = true;
 
 
 
-// var myDataAttr = document.querySelectorAll('[data-something]')
+var myDataAttr = document.querySelectorAll('[data-something]')
 
-// console.log("this is in my heading " + myDataAttr[0].innerText);
+console.log("this is in my heading " + myDataAttr[0].innerText);
 
 
 
